@@ -1,6 +1,6 @@
 ## Hi, I'm Nishtha 👋
 
-I'm a Data Scientist and Full-Stack Developer passionate about turning complex problems into simple, scalable solutions. With a foundation in Data Analytics and a background in PHP Python and web development, I blend analytical thinking with clean, functional code.
+I'm a Data Scientist and Full-Stack Developer passionate about turning complex problems into simple, scalable solutions. With a foundation in Data Analytics and a background in PHP, Python and web development, I blend analytical thinking with clean, functional code.
 
 
 ## 🌐 Socials:
